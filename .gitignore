@@ -1,0 +1,8 @@
+audio/
+db/
+pexels_vids/
+pics/
+video/
+.env
+.DS_Store
+venv/
